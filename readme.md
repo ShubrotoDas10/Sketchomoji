@@ -29,7 +29,7 @@
 
 ### Edge Visualization
 ![Edge Dots](images/edge_dots.png)
-*Step 2: Detected edges as coordinate points*
+*Step 2: ASCII art!*
 
 ### Final Emoji Art
 ![Emoji Art](images/emoji_art.png)
