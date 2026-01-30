@@ -304,43 +304,7 @@ Having issues?
 - [ ] Real-time webcam emoji filter
 - [ ] Export to different formats (SVG, PNG)
 
-## 📸 Adding Your Own Images
 
-### How to Add Screenshots to README
-
-1. **Create an `images/` folder** in your repository
-2. **Save your screenshots** with these names:
-   - `original.png` - Your input image
-   - `edges.png` - Canny edge detection result
-   - `edge_dots.png` - Edge visualization
-   - `emoji_art.png` - Final emoji output
-
-3. **Upload to GitHub:**
-```bash
-git add images/
-git commit -m "Add example outputs"
-git push
-```
-
-The images will automatically appear in the README!
-
-### Screenshot Guide
-
-**To capture your outputs from the notebook:**
-
-1. Run all cells in Colab
-2. Right-click on each output image
-3. Select "Save image as..."
-4. Save with the appropriate name
-5. Upload to `images/` folder in your repo
-
-**Screenshot locations in notebook:**
-- **Original Image:** Output of image display cell
-- **Canny Edges:** Black and white edge detection output
-- **Edge Dots:** The coordinate visualization
-- **Emoji Art:** The final text-based emoji art (screenshot the output)
-
----
 
 <div align="center">
 
